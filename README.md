@@ -1,6 +1,15 @@
 # Hunter Simulation
 
 ## Build the demo
+
+### Clone the code
+The source code is hosted at [Github](https://github.com/dfons/hunter). In order to clone the project:
+
+```
+$ git clone https://github.com/dfons/hunter.git
+```
+
+### Build the code
 In order to build the demo app, a GCC compiler with C++11 support is required. This demo app includes a MAkefile, so default make target can be used. The make targets must be executed in the root directory of the app, let's say `$HUNTER_DIR`:
 
 ```
